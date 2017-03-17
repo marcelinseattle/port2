@@ -38,3 +38,11 @@ img {
     margin: auto;
     width: 60;
 }
+
+.name {
+  font-family: cursive;
+}
+
+.intro {
+  font-family: cursive;
+}
