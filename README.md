@@ -18,7 +18,7 @@ _It is not very pretty to look at it, but I am working on it_
 
 ## Support and contact details
 
-_Portfolio link on Github:_ https://marcelinseattle.github.io/my-portfolio/
+_Portfolio link on Github:_ https://marcelinseattle.github.io/my-portfolio1/
 
 # Technologies Used
 
@@ -30,8 +30,8 @@ _MIT License_
 
 _Copyright (c) 2017 Marcel Nogueira_
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
+Permission is hereby granted, free of charge to any person obtaining a copy
+of this software and associated documentation files (the "Software") to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons, to whom the Software is
