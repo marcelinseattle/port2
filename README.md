@@ -18,7 +18,7 @@ _It is not very pretty to look at it, but I am working on it_
 
 ## Support and contact details
 
-_Portfolio link on Github:_ https://marcelinseattle.github.io/my-portfolio1/
+_Portfolio link on Github:_ https://marcelinseattle.github.io/port2/
 
 # Technologies Used
 
