@@ -18,11 +18,11 @@ _It is not very pretty to look at it, but I am working on it_
 
 ## Support and contact details
 
-_Project link: <a href="https://marcelinseattle.github.io/my-portfolio/"></a>
+_Portfolio link on Github: https://marcelinseattle.github.io/my-portfolio/
 
 # Technologies Used
 
-_HTML,_ _CSS_ _BOOTSTRAP_
+_HTML,_ _CSS_ _&_ _BOOTSTRAP_
 
 ### License
 
