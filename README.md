@@ -1,6 +1,6 @@
-#_Marcel's Portfolio_
+# _Marcel's Portfolio_
 
-####_About, me, myself and I_
+## _This is about... me, myself and I_
 
 #### By _**Marcel Nogueira**_
 
@@ -18,11 +18,11 @@ _It is not very pretty to look at it, but I am working on it_
 
 ## Support and contact details
 
-<a href="mailto:marcel@oceansky.com"></a>
+_Project link: <a href="https://marcelinseattle.github.io/my-portfolio/"></a>
 
 # Technologies Used
 
-_HTML_ _CSS_ _BOOTSTRAP_
+_HTML,_ _CSS_ _BOOTSTRAP_
 
 ### License
 
@@ -34,7 +34,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
+copies of the Software, and to permit persons, to whom the Software is
 furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
