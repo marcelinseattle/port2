@@ -7,13 +7,53 @@ body {
   background-size: cover;
 }
 
-#jumbo {
+#title {
   background-image: url("../img/calm3.jpeg");
   background-size: 700%;
 }
 
-#row1 {
+#epicodus {
   background-image: url("../img/calm4.jpeg");
+  background-size: 100% 100%;
+}
+
+#about {
+  background-image: url("../img/calm3.jpeg");
+  background-size: 700%;
+}
+
+#topabout {
+  background-image: url("../img/calm5.jpeg");
+  background-size: 100% 100%;
+}
+
+#background {
+  background-image: url("../img/calm3.jpeg");
+  background-size: 700%;
+}
+
+#topbackground {
+  background-image: url("../img/calm5.jpeg");
+  background-size: 100% 100%;
+}
+
+#skills {
+  background-image: url("../img/calm3.jpeg");
+  background-size: 700%;
+}
+
+#topskills {
+  background-image: url("../img/calm5.jpeg");
+  background-size: 100% 100%;
+}
+
+#friends {
+  background-image: url("../img/calm3.jpeg");
+  background-size: 700%;
+}
+
+#topfriends {
+  background-image: url("../img/calm5.jpeg");
   background-size: 100% 100%;
 }
 
@@ -47,5 +87,5 @@ img {
 }
 
 #back {
-  background-color:#9E9E9E;
+  background-image: linear-gradient(top, #4F364C, #FFFFFF);
 }
